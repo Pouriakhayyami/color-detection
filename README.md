@@ -71,3 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 This README.md provides an overview of the color detection project, including setup instructions, usage examples, dependencies, contribution guidelines, and licensing information. You can expand upon or modify this template based on your project's specific details and requirements.
+
+video of project
+https://drive.google.com/drive/folders/1Pt1JIKReJo03MDVOQDeXDrbFWlvEs8yc
